@@ -1,0 +1,45 @@
+@charset "utf-8";
+@charset "utf-8";
+/* CSS Document */
+.product
+{
+	width:300px;
+	height:400px;
+	background-color:#B0ADAE;
+	font-family:Arial;
+}
+img.prodPic
+{
+	width:150px;
+	height:150px;
+	margin-left:75px;
+}
+.prodName
+{
+	text-align:center;
+	font-size:24px;
+	color:#FFFFFF;
+	letter-spacing:2px;
+	text-transform:capitalize;
+}
+.proDesc
+{
+	width:250px;
+	margin-left:25px;
+	text-align:justify;
+	margin:20px 0;
+}
+.prodPrice
+{
+	text-align:right;
+	color:#FF0004;
+}
+.addToCart
+{
+	background-color:#000000;
+	color:#FFFFFF;
+	text-align:center;
+	text-transform:uppercase;
+	padding:20px 0;
+}/* CSS Document */
+

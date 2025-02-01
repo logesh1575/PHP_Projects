@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg
+{
+	background-color:#FFD2D3;
+	padding:30px;
+	width:800px;
+	height:400px;
+	font-family:Arial;
+}
+.box
+{
+	width:50%;
+	float:left;
+}
+img.proimg
+{
+	width:90%;
+	height:350px;
+	float:left;
+	margin-right:50px;
+}
+.proname
+{
+	font-size:64px;
+}
+.prodes
+{
+	font-size:18px;
+}
+.proprice
+{
+	color:#FF0004;
+	font-size:24px;
+	height:50px;
+	margin-top:20px;
+}
+.prodGst
+{
+	height:50px;
+}
+.prodDis
+{
+	height:50px;
+}
+.buy
+{
+	background-color:#DD8200;
+	width:20%;
+	text-align:center;
+	padding:10px;
+}
+a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+}
