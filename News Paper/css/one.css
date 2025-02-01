@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.wht
+{
+	font-weight:bold;
+	color:#FFFFFF;
+	font-size:20px;
+	
+}
+.wh
+{
+	color:#000000;
+}
+.border
+{
+	border:solid 2px;
+	border-bottom:hidden;
+}
+nav a:hover
+{
+	text-decoration:none;
+}
+.para{
+	font-size:24px;
+	font-weight:bold;
+}
+.para a:hover
+{
+	text-decoration:none;
+}
+
+	
